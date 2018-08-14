@@ -1,4 +1,3 @@
-# vs2017-vuecli-typescript-material
 # Vue Material example with typescript
 
 ### Introduction
