@@ -1,0 +1,11 @@
+C:\2\VueMaterial\VueMaterial\bin\Release\netcoreapp2.0\VueMaterial.deps.json
+C:\2\VueMaterial\VueMaterial\bin\Release\netcoreapp2.0\VueMaterial.runtimeconfig.json
+C:\2\VueMaterial\VueMaterial\bin\Release\netcoreapp2.0\VueMaterial.runtimeconfig.dev.json
+C:\2\VueMaterial\VueMaterial\bin\Release\netcoreapp2.0\VueMaterial.dll
+C:\2\VueMaterial\VueMaterial\bin\Release\netcoreapp2.0\VueMaterial.pdb
+C:\2\VueMaterial\VueMaterial\obj\Release\netcoreapp2.0\VueMaterial.csprojAssemblyReference.cache
+C:\2\VueMaterial\VueMaterial\obj\Release\netcoreapp2.0\VueMaterial.csproj.CoreCompileInputs.cache
+C:\2\VueMaterial\VueMaterial\obj\Release\netcoreapp2.0\VueMaterial.AssemblyInfoInputs.cache
+C:\2\VueMaterial\VueMaterial\obj\Release\netcoreapp2.0\VueMaterial.AssemblyInfo.cs
+C:\2\VueMaterial\VueMaterial\obj\Release\netcoreapp2.0\VueMaterial.dll
+C:\2\VueMaterial\VueMaterial\obj\Release\netcoreapp2.0\VueMaterial.pdb
