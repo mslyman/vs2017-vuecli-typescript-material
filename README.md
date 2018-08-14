@@ -3,9 +3,13 @@
 
 ### Introduction
 Install vue cli globally
+
 Move to ClientApp folder
+
 npm i
+
 npm run serve
+
 npm run build
 
 output to ../wwwroot for Visual Studio (see vue.config.js)
